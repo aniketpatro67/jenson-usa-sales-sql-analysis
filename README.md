@@ -44,5 +44,4 @@ SQL retail analysis project solving complex business questions on inventory, sal
 ---
 
 ## 📁 Repository Contents
-* `jenson_usa_analysis.sql` — Complete documented SQL script containing all queries.
 * `Jenson_USA_Milestone_Project.pdf` — Slide presentation detailing project methodology and findings.
