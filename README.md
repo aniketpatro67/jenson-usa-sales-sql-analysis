@@ -41,7 +41,6 @@ SQL retail analysis project solving complex business questions on inventory, sal
 * **Pricing Strategy:** Outlined pricing distribution and category ceilings to optimize promotional discounting.
 * **Staff Performance:** Benchmarked store sales vs. staff activity to improve operational scheduling and training.
 
----
 
-## 📁 Repository Contents
-* `Jenson_USA_Milestone_Project.pdf` — Slide presentation detailing project methodology and findings.
+
+
