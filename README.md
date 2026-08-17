@@ -21,28 +21,28 @@ SQL retail analysis project solving complex business questions on inventory, sal
 
 ## 🔍 Key Business Problems Solved
 1. **Store Sales Performance:** Aggregated total product volume sold per retail store.
-2. **Product Trajectory:** Calculated running/cumulative product sales volumes over time[cite: 7].
-3. **Category Champions:** Ranked and extracted top revenue-generating items per category using `RANK()`[cite: 7].
-4. **VIP Customer Identification:** Pinpointed highest-lifetime-spend customers for targeted retention[cite: 7].
-5. **Pricing Boundaries:** Analyzed category price ceilings using correlated subqueries[cite: 7].
-6. **Customer Loyalty:** Evaluated order frequencies per customer across different store locations[cite: 7].
-7. **Staff Sales Inactivity:** Identified non-selling personnel using `NOT EXISTS` clauses[cite: 7].
-8. **Top Movers:** Extracted top 3 highest-volume products[cite: 7].
-9. **Price Distribution:** Computed statistical median product prices using analytical row indexing[cite: 7].
-10. **Deadstock / Zero-Order Products:** Flagged unpurchased catalog items for inventory clearance[cite: 7].
-11. **Staff Productivity Benchmarks:** Benchmarked employee performance against company averages[cite: 7].
-12. **Cross-Category Buyers:** Filtered omnichannel customers purchasing across all store categories using `HAVING COUNT(DISTINCT)`[cite: 7].
+2. **Product Trajectory:** Calculated running/cumulative product sales volumes over time.
+3. **Category Champions:** Ranked and extracted top revenue-generating items per category using `RANK()`.
+4. **VIP Customer Identification:** Pinpointed highest-lifetime-spend customers for targeted retention.
+5. **Pricing Boundaries:** Analyzed category price ceilings using correlated subqueries.
+6. **Customer Loyalty:** Evaluated order frequencies per customer across different store locations.
+7. **Staff Sales Inactivity:** Identified non-selling personnel using `NOT EXISTS` clauses.
+8. **Top Movers:** Extracted top 3 highest-volume products.
+9. **Price Distribution:** Computed statistical median product prices using analytical row indexing.
+10. **Deadstock / Zero-Order Products:** Flagged unpurchased catalog items for inventory clearance.
+11. **Staff Productivity Benchmarks:** Benchmarked employee performance against company averages.
+12. **Cross-Category Buyers:** Filtered omnichannel customers purchasing across all store categories using `HAVING COUNT(DISTINCT)`.
 
 ---
 
 ## 📈 Strategic Business Insights
-* **Inventory Optimization:** Identified unpurchased items to guide inventory clearance and catalog adjustments[cite: 7].
-* **Customer Retention:** Located high-value and cross-category customers to build personalized loyalty programs[cite: 7].
-* **Pricing Strategy:** Outlined pricing distribution and category ceilings to optimize promotional discounting[cite: 7].
-* **Staff Performance:** Benchmarked store sales vs. staff activity to improve operational scheduling and training[cite: 7].
+* **Inventory Optimization:** Identified unpurchased items to guide inventory clearance and catalog adjustments.
+* **Customer Retention:** Located high-value and cross-category customers to build personalized loyalty programs.
+* **Pricing Strategy:** Outlined pricing distribution and category ceilings to optimize promotional discounting.
+* **Staff Performance:** Benchmarked store sales vs. staff activity to improve operational scheduling and training.
 
 ---
 
 ## 📁 Repository Contents
 * `jenson_usa_analysis.sql` — Complete documented SQL script containing all queries.
-* `Jenson_USA_Milestone_Project.pdf` — Slide presentation detailing project methodology and findings[cite: 7].
+* `Jenson_USA_Milestone_Project.pdf` — Slide presentation detailing project methodology and findings.
